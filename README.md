@@ -48,4 +48,4 @@ Here’s a breakdown of the files included in this repository:
 
 ---
 
-🌟 **Thank you for visiting my repository!** If you found this project interesting, please give it a ⭐️ and share it with others!
+🌟 **Thank you for visiting my repository!**
